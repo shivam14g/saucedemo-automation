@@ -4,6 +4,7 @@
 *.project
 
 # Maven target
+.mvn/
 target/
 
 # OS files
