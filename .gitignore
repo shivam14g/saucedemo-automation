@@ -1,0 +1,17 @@
+# Eclipse/IDE files
+.settings/
+*.classpath
+*.project
+
+# Maven target
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: ignore IntelliJ, if you use it
+.idea/
